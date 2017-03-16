@@ -1,4 +1,3 @@
-# Dichiarazione del linguaggio utilizzato
 #!/usr/bin/python
 import time              # Importazione di una libreria con funzioni speciali
 n=1                      # Dichiarazione di una variabile
